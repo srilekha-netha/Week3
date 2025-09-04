@@ -47,6 +47,7 @@ Features
   - **Salary Agent** → Answers salary-related queries.  
   - **Insurance Agent** → Answers insurance-related queries.  
   - **Coordinator Agent** → Combines both responses into a final, concise answer if the query involves both.
+## Demo : https://multi-agent-rag1.streamlit.app/
  ---
 
  ## Additional task
